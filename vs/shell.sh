@@ -1,0 +1,2 @@
+name = "keerthe"
+echo "$name"
