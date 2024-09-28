@@ -7,3 +7,5 @@ this is the worl of my lifes
 kiiiii
 hiiii
 jii
+docker swarm join --token SWMTKN-1-51en8fyrla99sfxnleqvtkban28n4l57qdl9mnozikku6evd2h-8odya0zx3ug832hql3o412hfl 192.168.211.55:2377
+
