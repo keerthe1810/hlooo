@@ -8,4 +8,7 @@ kiiiii
 hiiii
 jii
 docker swarm join --token SWMTKN-1-51en8fyrla99sfxnleqvtkban28n4l57qdl9mnozikku6evd2h-8odya0zx3ug832hql3o412hfl 192.168.211.55:2377
+docker swarm join --token SWMTKN-1-31terx8i7uu4mjlopu0nt52ol9ogjhhufu4lf1kxxhqobgmush-bd57ssfzjbh9i7s4vfjuyrrhd 192.168.211.55:2377
+
+
 
