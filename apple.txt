@@ -5,4 +5,6 @@ hlooo
 jlooo
 jkjihk
 https://github.com/Cohesity2022/certified-kubernetes-administrator/tree/main/Cluster%20Setup
---discovery-token-ca-cert-hash sha256:3a0c50fd4b1593975549187d724c5c4b6405cfa700f2a82f82d0cd4aac4e7cf4
+kubeadm join 192.168.211.55:6443 --token oyqnve.toduohe0mr8gs7ab \
+	--discovery-token-ca-cert-hash sha256:3a0c50fd4b1593975549187d724c5c4b6405cfa700f2a82f82d0cd4aac4e7cf4 
+
